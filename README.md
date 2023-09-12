@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Currently working on some personal projects
-- Learning new things every day...
+- I am a fullstack developer
+

@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 - I am a fullstack developer
 
+Typescript, NodeJS, Rust, C++, Python
+MongoDB, SurrealDB, Postgres,

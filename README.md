@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I am a fullstack developer
-
-Typescript, NodeJS, Rust, C++, Python
-MongoDB, SurrealDB, Postgresql,
+- I like to code
